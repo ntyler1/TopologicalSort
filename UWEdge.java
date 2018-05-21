@@ -1,6 +1,5 @@
 /**
  *@author Noah Tyler
- * CSC 406.02 - Assignment 4
  */
 
 public class UWEdge{
